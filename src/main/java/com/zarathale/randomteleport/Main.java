@@ -1,4 +1,4 @@
-package com.luca.randomteleport;
+package com.zarathale.randomteleport;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
