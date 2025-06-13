@@ -1,4 +1,4 @@
-package com.ServerName.randomteleport;
+package com.zarathale.randomteleport;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
