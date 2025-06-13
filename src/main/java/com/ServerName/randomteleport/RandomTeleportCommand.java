@@ -10,10 +10,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-private static final Random RANDOM = new Random();
-
 public class RandomTeleportCommand implements CommandExecutor {
 
+    private static final Random RANDOM = new Random();
+    
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (!(sender instanceof Player)) {
