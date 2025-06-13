@@ -1,4 +1,4 @@
-package com.luca.randomteleport;
+package com.ServerName.randomteleport;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
